@@ -1,0 +1,16 @@
+Order_ID,Date,Product,Category,Quantity,Price,City,Customer_Age,Rating
+7001,2024-01-02,Wheat Flour,Groceries,25,65,Chennai,45,4
+7002,2024-01-08,Toor Dal,Pulses,8,120,Coimbatore,38,5
+7003,2024-02-03,Potatoes,Vegetables,15,28,Erode,52,3
+7004,2024-02-14,Full Cream Milk,Dairy,12,55,Salem,29,5
+7005,2024-03-04,Green Chillies,Vegetables,6,45,Chennai,33,4
+7006,2024-03-19,Basmati Rice,Groceries,20,85,Madurai,41,5
+7007,2024-04-02,Paneer,Dairy,4,220,Erode,27,4
+7008,2024-04-17,Groundnut Oil,Groceries,2,280,Coimbatore,55,5
+7009,2024-05-01,Onions,Vegetables,18,32,Salem,36,4
+7010,2024-05-20,Yogurt,Dairy,10,40,Chennai,24,5
+7011,2024-06-03,Chickpeas,Pulses,7,95,Madurai,48,3
+7012,2024-06-18,Tomatoes,Vegetables,22,25,Coimbatore,31,5
+7013,2024-07-05,Sugar,Groceries,10,48,Erode,42,4
+7014,2024-07-22,Butter,Dairy,3,180,Salem,35,5
+7015,2024-08-10,Carrots,Vegetables,12,35,Chennai,28,4
