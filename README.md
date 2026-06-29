@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Sales Data Analysis using Python
+#  E-Commerce Sales Data Analysis using Python
 
 A simple data analysis project that demonstrates how to clean, analyze, and visualize an E-Commerce sales dataset using **Python**, **Pandas**, **NumPy**, and **Matplotlib**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs the following tasks:
 
@@ -19,7 +19,7 @@ This project performs the following tasks:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Data Cleaning
 - ✅ Missing Value Handling
@@ -37,7 +37,7 @@ This project performs the following tasks:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ECommerce-Sales-Analysis/
@@ -50,7 +50,7 @@ ECommerce-Sales-Analysis/
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - Pandas
@@ -59,7 +59,7 @@ ECommerce-Sales-Analysis/
 
 ---
 
-## 📦 Required Libraries
+##  Required Libraries
 
 Install the required packages using pip:
 
@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains information such as:
 
@@ -90,7 +90,7 @@ Revenue = Quantity × Price
 
 ---
 
-## 📈 Analysis Performed
+##  Analysis Performed
 
 ### 1. Data Cleaning
 
@@ -166,18 +166,18 @@ Calculates average customer rating.
 
 ---
 
-## 📷 Visualizations
+##  Visualizations
 
 The project generates:
 
-- 📈 Monthly Sales Trend
-- 📊 Category-wise Revenue
-- 🥧 Product Revenue Share
-- 📉 Customer Age Distribution
+-  Monthly Sales Trend
+-  Category-wise Revenue
+-  Product Revenue Share
+-  Customer Age Distribution
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -207,7 +207,7 @@ python ecommerce_analysis.py
 
 ---
 
-## 📋 Sample Output
+##  Sample Output
 
 ```
 DATASET PREVIEW
@@ -237,7 +237,7 @@ Average Rating : 4.3
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 
@@ -253,7 +253,7 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Interactive Dashboard using Streamlit
 - Sales Forecasting using Machine Learning
@@ -266,16 +266,10 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Kanishk A M**
 
 GitHub: https://github.com/kanishk-am
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-Feel free to use, modify, and contribute.
