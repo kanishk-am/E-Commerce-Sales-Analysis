@@ -182,7 +182,7 @@ The project generates:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ECommerce-Sales-Analysis.git
+git clone https://github.com/kanishk-am/ECommerce-Sales-Analysis.git
 ```
 
 2. Navigate to the project folder
